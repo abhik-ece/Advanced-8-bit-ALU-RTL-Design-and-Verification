@@ -1,4 +1,4 @@
-# 8-bit ALU Design using SystemVerilog
+# Advanced 8-bit ALU RTL Design & Verification
 
 An 8-bit Arithmetic Logic Unit (ALU) designed using SystemVerilog and verified through simulation and waveform analysis. The RTL design was synthesized using Yosys to generate a gate-level netlist.
 
