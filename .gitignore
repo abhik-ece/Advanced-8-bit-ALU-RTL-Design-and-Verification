@@ -1,0 +1,12 @@
+# Simulation executable
+sim/alu_sim
+
+# GTKWave session files
+*.gtkw
+
+# Editor files
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
